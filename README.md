@@ -1,3 +1,5 @@
+![header](https://github.com/AlfonsoFZ/minishell/blob/master/header.png?raw=true)
+
 **Note**
 
 To run this program in linux, after cloning the repository, you should go to:
